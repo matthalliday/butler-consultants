@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<nav role="navigation">
+  {% assign sections = site.pages | group_by: 'section_order' | sort: 'name' %}
+  <ul>
+    {% for section in sections %}
+      {% if section.items[0].section %}
+        <li>
+          <strong>{{ section.items[0].section }}</strong>
+          <ul>
+            {% for item in section.items %}
+              <li>
+                <a href="{{ item.url }}">
+                  {% if item.alias %}
+                    {{ item.alias | escape }}
+                  {% else %}
+                    {{ item.title | escape }}
+                  {% endif %}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+</nav>
