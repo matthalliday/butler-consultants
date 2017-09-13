@@ -7,7 +7,7 @@ section_order: 2
 
 ## 1. Education and Training: Classroom Option
 
-### Background on the Course:
+### Background on the Course
 
 The company provides half day training sessions for supervisors to ensure they understand their company policy/expectations and their responsibilities in its implementation. This training covers the following:
 
@@ -18,7 +18,7 @@ The company provides half day training sessions for supervisors to ensure they u
 
 It also includes practical case studies and a video on appropriate performance management procedures. A manual of materials is provided to support the program, including cases, procedures, and documentation forms to support the supervisor in meeting their responsibilities.
 
-### Options:
+### Options
 
 The program can also be delivered to supervisors in companies subject to the U.S. Department of Transportation Regulations for cross-border motor carrier drivers and fully meets the regulatory requirements. An additional module on the U.S. regulations is delivered, and procedures and cases are specific to the regulatory requirements.
 
@@ -30,7 +30,7 @@ More information on the delivery of this program can be obtained by contacting B
 
 ## 2. Education and Training Course: Internet Option
 
-### Background on the Course:
+### Background on the Course
 
 Many companies are recognizing that training supervisors through an on-line approach is more practical and effective for their particular workplace, particularly when employees are located at a number of sites and/or they would like their supervisors to have ongoing access to the resources and scenarios through a dedicated site. This education and training program has been set up in a way that can meet two purposes:
 
@@ -51,7 +51,7 @@ This is supported through a library of resources found through the course module
 
 There are quizzes throughout the course to check learning, as well as an exam at the end of the course that tests the supervisor‘s overall knowledge of the key learning points. They receive a certificate of completion which is on record at the company to confirm due diligence in training the individuals who play a key role in their policy implementation. The program is available in French and English.
 
-### Objective/Advantages:
+### Objective/Advantages
 
 The objective is not only to provide an opportunity for initial education and training for all employees, but in the case of the supervisors, to provide a resource through the situation handling, library components and refresher which will help them meet their ongoing responsibilities, and responding to unexpected circumstances.
 
@@ -71,7 +71,7 @@ Using the Internet also has the advantage of ensuring all individuals, including
 
 Finally, this system allows the company to track individuals through their username/password to ensure they have completed the course or to ensure they have completed any required refresher training. It also provides a fast and efficient way for the company administrator to update users on new features or any changes in company policy or procedures. (see below)
 
-### Options:
+### Options
 
 Many companies may choose to use the Internet training course only for supervisor training, and all of the information they need is provided. Some may also want to use this vehicle to educate employees. In that case, the employee password would provide access to the first three modules so that employees can be educated on alcohol and drug issues, on their company policy and any specific assistance opportunities provided by the company, and on how alcohol and drug testing works. They would have access to this information on an ongoing basis.
 
@@ -79,7 +79,7 @@ One additional feature is a “what‘s new” section which allows the content 
 
 A further version of the course can be available to organizations that do not use testing in their program. There is also a dedicated program to meet U.S. Department of Transportation requirements.
 
-### Set up:
+### Set up
 
 A core program is already online which can be used in the generic version to meet most workplace requirements. Another option is to make the content company-specific; the following types of things would need to be done:
 

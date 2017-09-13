@@ -43,7 +43,7 @@ Many believe that the steady reduction in positive random results indicates thes
 
 These survey results and program statistics would seem to indicate the continued importance of having comprehensive policies, particularly in higher risk industries. Whatever a company may conclude about the value of its own program, if drivers continue to operate into the United States, the company must comply with the U.S. regulations. One way to confirm continued compliance is to do a quick review of the company program. Here are the sorts of questions that should be asked:
 
-## Ask Your Managers:
+## Ask Your Managers
 
 1. Do we have current copies of Parts 382 and 40 on hand, and do we know our obligations as employers? The Provincial Trucking Associations are the best source for these documents.
 2. Are we maintaining appropriate program records for audit purposes? Requirements are listed in §382.401 and indicate some records must be kept for a year, two years, five years, or indefinitely.
@@ -54,7 +54,7 @@ These survey results and program statistics would seem to indicate the continued
 7. Do we have records regarding contact with past employers (back 3 years) for every new hire, and are we ensuring they comply with all SAP requirements, including follow-up testing?
 8. Are we providing the names of local SAPs to all drivers that engage in prohibited conduct - not just those that test positive - whether we continue to employ the driver or not? Do we keep a record every time this is done?
 
-## Ask Your Service Provider(s):
+## Ask Your Service Provider(s)
 
 1. Are breath, saliva and urine samples being collected correctly? is the proper chain-of-custody form (7-part DOT) being used for drug testing? is the proper 3-part form being used for breath alcohol testing? are the breathalyzers being used on the Conforming Products list and regularly calibrated? how are the collectors trained? is there proof of training and certification for the breath alcohol technicians and screening test (saliva) technicians? If you have any concerns about how your collection is being handled, raise them with the collector and your Third Party Administrator (TPA).
 2. Do you have proof that samples are being analyzed at a lab certified by the Department of Health and Human Services (DHHS)? The three labs in Canada that are certified are Maxxam Analytics Inc. (Mississauga), Dynacare Kasper Medical Labs (Edmonton) and Gamma Dynacare Medical Labs (London), although testing can be done by a certified U.S. lab.
@@ -63,13 +63,13 @@ These survey results and program statistics would seem to indicate the continued
 5. Are you satisfied with the turn-around times for test results, recognizing most should be received in 1-2 days unless there is a complicated case requiring dialogue with the MRO?
 6. Are you confident that the random selection handled by your TPA is meeting the rates set out by DOT? Recognize that if the TPA fails to ensure that the tests were <u>completed</u> at the rate required (not just selected), all members of the consortia can be fined. If your have any doubts, ask your TPA for the 1999 MIS report to verify this standard was met.
 
-## Employer Obligations:
+## Employer Obligations
 
 Remember, it is the employer who is responsible for ensuring the testing is done exactly as directed in the Part 40 regulations. If you are audited, and the inspector concludes any part of your testing program was not handled appropriately, you - the employer - are subject to fines, not your service provider.
 
 Another important consideration is that if your testing program in total, or any disciplinary action taken as a result of a positive is challenged, you will want to ensure that the collectors, the laboratory, and the MRO are all fully qualified and able to stand behind the program and its results in any hearing situation. Cheaper is not always better!
 
-## Ensure Your Provider Knows About the Part 40 Changes:
+## Ensure Your Provider Knows About the Part 40 Changes
 
 DOT has issued draft amendments to the Part 40 requirements which make a series of improvements in the current system and put all the interpretations issued in the past 10 years into one document. It includes additional training requirements for individuals involved in the testing process, and additional procedures for labs to test for dilute, substituted and adulterated specimens, given the ready availability advice to help drivers try to “beat” the test.
 
