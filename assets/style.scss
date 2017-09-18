@@ -2,73 +2,71 @@
 # Jekyll needs YAML front matter in order to process this file
 ---
 
-@import "setup";
+@import 'normalize';
+@import 'helpers';
+@import 'base';
+@import 'typography';
 
-// http://www.paulirish.com/2012/box-sizing-border-box-ftw/
-*,
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+.site-header {
+  margin-bottom: 40px;
 }
 
-#content:focus {
-  outline: none;
+.site-footer {
+  margin-top: 40px;
 }
 
-body {
-  margin: 40px auto;
-  max-width: 720px;
-  font-weight: normal;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 100%;
-  line-height: 1.5;
-  color: #525252;
+.brand {
+  overflow: hidden;
+
+  img {
+    float: left;
+  }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 1.5em;
-  font-family: 'Source Serif Pro', serif;
-  line-height: 1.2;
-  color: #2d2d2d;
+.brand__content {
+  float: left;
+  margin-left: 40px;
+  width: 560px;
 }
 
-p,
-ul,
-ol {
+.brand__title {
   margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: bold;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 2em;
+  line-height: 1.25;
+
+  small {
+    display: block;
+  }
 }
 
-p {
-  margin-bottom: 1em;
+.brand__address {
+  span {
+    display: block;
+  }
 }
 
-li {
+
+.navigation__list {
+  margin-top: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
+.navigation__list--level-1 {
+  strong {
+    font-family: 'Source Serif Pro';
+    font-size: 17px;
+    color: #2d2d2d;
+  }
+}
+
+.navigation__list--level-2 {
   margin-bottom: 0.5em;
-
-  ul,
-  ol {
-    margin-top: 0.5em;
-  }
-}
-
-table {
-  margin-bottom: 24px;
-  width: 100%;
-  border-top: 1px solid #000;
-  border-left: 1px solid #000;
-  border-collapse: collapse;
-
-  td,
-  th {
-    padding: 8px;
-    border-right: 1px solid #000;
-    border-bottom: 1px solid #000;
-  }
+  padding-left: 32px;
 }
