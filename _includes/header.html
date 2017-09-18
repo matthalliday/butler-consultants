@@ -1,4 +1,38 @@
-<header role="banner">
-  <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<header class="site-header" role="banner">
+
+  {% if page.layout == 'home' %}
+
+    <div class="brand">
+      <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+
+      <div class="brand__content">
+        <h1 class="brand__title">
+          <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+          <small>Management Consultants</small>
+        </h1>
+        <p>Specializing in workplace alcohol and drug policy and programs</p>
+        <p>Barbara Butler, B.E.S., M.B.A., President</p>
+      </div>
+    </div>
+
+  {% else %}
+
+    <div class="brand">
+      <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+
+      <div class="brand__content">
+        <div class="brand__title">
+          <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+          <small>Management Consultants</small>
+        </div>
+        <p class="brand__address">
+          <span>397 Brunswick Avenue, Unit 6</span>
+          <span>Toronto, Ontario M5R 2Z2</span>
+          <span>Phone: 416-922-9355</span>
+          <span>Cell: 416-926-7599</span>
+        </p>
+      </div>
+    </div>
+
+  {% endif %}
 </header>
-<hr />

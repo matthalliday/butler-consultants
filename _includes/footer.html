@@ -1,6 +1,8 @@
-<hr />
-<footer role="contentinfo">
-  <a href="#top">Top of the page</a> |
-  <a href="{{ "/" | relative_url }}">Table of Contents</a> |
+<footer class="site-footer" role="contentinfo">
+  {% if page.layout != 'home' %}
+    <a href="#top">Top of the page</a> |
+    <a href="{{ "/" | relative_url }}">Table of Contents</a> |
+  {% endif %}
+
   <span>&copy; {{ site.title }}</span>
 </footer>

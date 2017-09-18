@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<nav role="navigation">
+<nav class="navigation" role="navigation">
   {% assign sections = site.pages | group_by: 'section_order' | sort: 'name' %}
-  <ul>
+  <ul class="navigation__list navigation__list--level-1">
     {% for section in sections %}
       {% if section.items[0].section %}
         <li>
           <strong>{{ section.items[0].section }}</strong>
-          <ul>
+          <ul class="navigation__list navigation__list--level-2">
             {% for item in section.items %}
               <li>
                 <a href="{{ item.url }}">
