@@ -1,5 +1,5 @@
 ---
-title: About Barb
+title: About Barbara
 permalink: bb_about.html
 section: About the Company
 section_order: 1
