@@ -6,16 +6,27 @@ section: US Testing Programs Canadian Impact
 section_order: 5
 ---
 
-<u>Background:</u>
+## Background:
 
-- Effective July 1, 1996, all commercial motor vehicle drivers (GVWR 26,000 lb+, designed to carry 16 or more passengers including the driver, or placarded to carry hazardous materials) were subject to U.S. Highways Administration drug and alcohol testing regulations. Implementation was in two phases. Any company that used 50 or more CMV drivers operating anywhere in North America was considered a “large employer” under the regulations, and was expected to have programs in place to meet the regulatory requirements for all CMV drivers that enter the United States on July 1, 1996. All other “smaller employers” were given an additional year to set up programs, and expected to comply by July 1, 1997.
-- Penalties for non-compliance are severe. Failure to maintain the designated records, failure to test as required, use of unqualified (testing) service providers, and use of a driver that is not qualified to drive in the United States (under the DOT-regulated program) can result in fines up to $10,000 U.S. <u>per infraction</u>. Failure to have a program in place can result in loss of operating authority into the United States. DOT officials are auditing Canadian companies for compliance.</li>
+- Effective July 1, 1996, all commercial motor vehicle drivers (GVWR 26,000 lb+, designed to carry 16 or more passengers including the driver, or placarded to carry hazardous materials) were subject to U.S. Highways Administration drug and alcohol testing regulations.
+- Penalties for non-compliance are severe. Failure to maintain the designated records, failure to test as required, use of unqualified (testing) service providers, and use of a driver that is not qualified to drive in the United States (under the DOT-regulated program) can result in fines up to $10,000 U.S. <u>per infraction</u>. Failure to have a program in place can result in loss of operating authority into the United States. DOT officials are auditing Canadian companies for compliance.
+- Any company that starts operations into the US must ensure they have a policy in place and meet all of the regulatory requirements.
 
-<u>Program Requirements:</u>
+## Program Requirements:
 
 - The attached summary highlights the program requirements, which are found in significantly more detail in the regulations themselves. Part 382 sets out the program requirements which must be implemented by the employer. They must set specific standards around alcohol, illicit drug and medication use, and are required to implement a testing program (pre-employment, reasonable cause, post accident, random), to pull drivers from service if they violate the rules or test positive, and subject them to stringent conditions before and on return to duty (including testing).
 - All testing must be done in compliance with part 382 and part 40 or penalties will result. Part 40 sets out the scientific and technical testing program requirements, and employers must only use service providers that comply with the regulation.
 - Both parts 382 and 40 have been significantly revised and the changes were effective in August, 2001. Anyone operating into the United States should be aware that the company and their drivers must meet ALL of the standards and regulations set out in the Federal Motor Carrier Safety Regulations, and not just these two sections. Guidelines and amendments come out periodically and are posted on the web site at the end of this handout.
+- There are changes taking place that your Third Party Administrator should have communicated.
+  - The Department of Transportation has made it clear that any state initiative to either allow for the use of medical marijuana, or that has resulted in legalization of marijuana have no bearing on the drug testing program; this remains a Schedule I drug whose use is illegal under federal law.  Therefore no matter what location the driver resides, or what state or country the driver is tested in, the MRO can not by law overturn a positive marijuana result.
+
+    The notices can be found at:<br />
+    [https://www.transportation.gov/odapc/medical-marijuana-notice](https://www.transportation.gov/odapc/medical-marijuana-notice)<br />
+    [https://www.transportation.gov/odapc/dot-recreational-marijuana-notice](https://www.transportation.gov/odapc/dot-recreational-marijuana-notice)
+
+  -	Effective October 1, 2017 there are changes to the testing program which specifically extend the opiates to be tested by adding the requirement to test for oxycodone, oxymorphone, hydrocodone, and hydromorphone. There are a number of other technical changes. [https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf](https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf)
+  -	Although there is a proposal to allow for oral fluid testing for drugs, that is not yet a part of the regulations although it is proposed in future that in situations when the donor can not provide a sufficient urine sample at the collection site. And use of point of collection testing devices (POCT) is not allowed for drivers covered by the regulations.
+
 - The company that directs the driver is responsible for compliance, whether they use employee drivers, or drivers that are contracted, leased or otherwise utilized by that company. The company does not have to be a motor carrier - they simply have to direct drivers under their operating authority to carry a product or passengers into the U.S. Employers must ensure all drivers they use for any cross border work are under a program that meets the regulatory requirements.
 
 ## Short Guide to U.S. Regulations
