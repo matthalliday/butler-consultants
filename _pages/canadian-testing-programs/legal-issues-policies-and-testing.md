@@ -18,7 +18,7 @@ section_order: 4
 The full decision is available at:
 
 Oak Bay Marina Ltd. v. British Columbia (Human Rights Commission) 2002 BCCA 495<br />
-[http://www.canlii.org/en/bc/bcca/nav/date/2002_09.html](http://www.canlii.org/en/bc/bcca/nav/date/2002_09.html)
+<http://www.canlii.org/en/bc/bcca/nav/date/2002_09.html>
 
 ## 2. Human Rights Context: Supreme Court Decision
 
@@ -28,9 +28,9 @@ Oak Bay Marina Ltd. v. British Columbia (Human Rights Commission) 2002 BCCA 495<
   - Did the employer establish that it adopted the standard in an honest and good faith belief that it was necessary for the fulfillment of that legitimate work-related purpose?<br />
   Did the employer establish that the standard is reasonably necessary to the accomplishment of that legitimate work-related purpose? - and to meet this test, it must be demonstrated that it is impossible to accommodate individual employees sharing the characteristics of the claimant without imposing undue hardship on the employer.
 
-British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3 [http://www.canlii.org/en/ca/scc/doc/1999/1999canlii652/1999canlii652.html](http://www.canlii.org/en/ca/scc/doc/1999/1999canlii652/1999canlii652.html)
+British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3 <http://www.canlii.org/en/ca/scc/doc/1999/1999canlii652/1999canlii652.html>
 
-British Columbia (Superintendent of Motor Vehicles) v. British Columbia (Council of Human Rights), [1999] 3 S.C.R. 868 [http://www.canlii.org/en/ca/scc/doc/1999/1999canlii646/1999canlii646.html](http://www.canlii.org/en/ca/scc/doc/1999/1999canlii646/1999canlii646.html)
+British Columbia (Superintendent of Motor Vehicles) v. British Columbia (Council of Human Rights), [1999] 3 S.C.R. 868 <http://www.canlii.org/en/ca/scc/doc/1999/1999canlii646/1999canlii646.html>
 
 ## 3. Ontario Court of Appeal: Entrop and Imperial Oil
 
@@ -38,7 +38,7 @@ British Columbia (Superintendent of Motor Vehicles) v. British Columbia (Council
 - Alcohol testing was accepted in reasonable cause, post incident, certification (applicant to a safety-sensitive position) and on a random basis after assignment, as well as in return to duty situations. Although the Court commented that drug testing would be acceptable in all but a pre-employment and random situation, it did not make a ruling (Entrop's complaint was against the alcohol testing part of the policy). In other words, it appears testing was acceptable consistent with the original Board of Inquiry decision in a reasonable cause, post incident and return to duty/follow-up testing situation. The Court also agreed with testing as a condition of certification to a safety-sensitive position for new hires and existing transfers.
 - The Court's comment on random testing was that because urinalysis does not prove impairment at the time the sample is taken it does not meet the Supreme Court's bfor test in these situations. The Court said testing as a condition of employment to all positions did not meet a bona fide occupational requirement standard if the position was not safety-sensitive. Entrop v. Imperial Oil Limited (July 21, 2000)
 
-[http://www.canlii.org/en/on/onca/doc/2000/2000canlii16800/2000canlii16800.html](http://www.canlii.org/en/on/onca/doc/2000/2000canlii16800/2000canlii16800.html)
+<http://www.canlii.org/en/on/onca/doc/2000/2000canlii16800/2000canlii16800.html>
 
 ## 4. Alberta Court of Appeal: Luka/Alberta Human Rights and Citizenship Commission and Lockerby & Hole/Syncrude
 
@@ -46,7 +46,7 @@ Luka was a long term employee of Lockerbie & Hole (L & H) and was transferred to
 
 L & H appealed on the finding Suncrude was an employer and the Court of Queen's Bench concluded the definition of employer was not wide enough to cover the relationship between the owner of an industrial site and the employees of an arm's length contractor working on the site. The Human Rights Commission appealed to the Alberta Court of Appeal. There is no definition of employer under the Act, but it does say no employer shall discriminate against any person with regard to employment or any term or condition of employment on any of the prohibited grounds. The appeal was dismissed, concluding Luka was not co-employed by Syncrude, and therefore the owner site, even though it set safety policies did not have a duty to accommodate a contract worker in the way a direct employer would.
 
-Lockerby & Hole Industrial Inc. v Alberta Human Rights and Citizenship (January 11, 2011) [http://www.canlii.org/en/ab/abca/doc/2011/2011abca3/2011abca3.html](http://www.canlii.org/en/ab/abca/doc/2011/2011abca3/2011abca3.html)
+Lockerby & Hole Industrial Inc. v Alberta Human Rights and Citizenship (January 11, 2011) <http://www.canlii.org/en/ab/abca/doc/2011/2011abca3/2011abca3.html>
 
 ## 5. Federal Human Rights Tribunal Decision: Autocar Connaisseur
 
@@ -70,7 +70,7 @@ The company revised the policy to allow for a Substance Abuse Professional asses
 The full decision is available at:
 
 Salvatore Milazzo v. Autocar Connaisseur Inc. and Motor Coach Canada 2003 CHRT 37<br />
-[http://www.canlii.org/en/ca/chrt/doc/2003/2003chrt37/2003chrt37.html](http://www.canlii.org/en/ca/chrt/doc/2003/2003chrt37/2003chrt37.html)
+<http://www.canlii.org/en/ca/chrt/doc/2003/2003chrt37/2003chrt37.html>
 
 On January 28, 2005 the Tribunal issued a subsequent decision confirming:
 
@@ -81,7 +81,7 @@ On January 28, 2005 the Tribunal issued a subsequent decision confirming:
 - the concept of accommodation has its limits, and the employer is not subject to an endless rehabilitation process. The decision can be accessed at:
 
 Salvatore Milazzo v. Autocar Connaisseur Inc. and Motor Coach Canada 2005 CHRT 5<br />
-[http://www.canlii.org/en/ca/chrt/doc/2005/2005chrt5/2005chrt5.html](http://www.canlii.org/en/ca/chrt/doc/2005/2005chrt5/2005chrt5.html)
+<http://www.canlii.org/en/ca/chrt/doc/2005/2005chrt5/2005chrt5.html>
 
 ## 6. Other Human Rights Decisions
 
@@ -89,13 +89,13 @@ These decisions in Alberta provide further guidance on testing applicability at 
 
 **Chiasson v. Kellogg, Brown and Root:** In the first human rights decision to reference the Milazzo ruling, KBR's decision to withdraw an offer of employment to an applicant for a high risk position on a client's site was upheld. The individual tested positive and had started working, but was in the probation period and the condition of hire included passing a medical and a drug test. The individual said he did not have a problem, and there was no evidence of perceived discrimination. He admitted to being a recreational user. The Panel looked at the situation in light of the Supreme Court tests for a bfor. Although the company's actions were supported, the Panel ruled that had the applicant established evidence of a disability, real or perceived, the withdrawal of an employment offer would have been discriminatory and the third element of Meoirin would not have been totally met. (June 2005) The ruling can be reviewed at:
 
-John Chiasson v. Kellogg, Brown & Root (Canada) Company (Halliburton Group Canada Inc.) [http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc7/2005ahrc7.html](http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc7/2005ahrc7.html)
+John Chiasson v. Kellogg, Brown & Root (Canada) Company (Halliburton Group Canada Inc.) <http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc7/2005ahrc7.html>
 
 **Court of Queen's Bench Ruling:** This was appealed to the Court of Queen's Bench of Alberta which reversed the ruling, stating that there are flaws in pre-employment testing deriving from "the fact that a positive test does not show future impairment, or even likely future impairment on the job, yet the applicant who tests positive is not hired." Further problems with the company program were that all applicants were subject to testing, not just those applying for safety-sensitive positions, and that the testing was not part of a larger process of assessment of alcohol or drug abuse (as set out in the Entrop decision). The Court said prohibiting impairment at work is a valid and compelling safety and security concern, and there is a "legitimate interest in prohibiting drug use at work because it is dangerous and exposes employees to increased risk of accident or injury." But there was no evidence accepted that pre-employment testing improved workplace safety.
 
 The company was found to be contravening the Act, and directed to "revise its policy to eliminate pre-employment drug testing, or in the alternative, if pre-employment drug testing is found to be reasonably necessary for deterring impairment on the job," the company is ordered to "offer a process of assessment or accommodation to individuals failing a pre-employment drug test." The Court noted these directions are specific to the KBR Policy and left open the question of whether other policies would meet the bfor standard.
 
-The Court of Queen's Bench decision can be found at: [http://www.canlii.org/en/ab/abqb/doc/2006/2006abqb302/2006abqb302.html](http://www.canlii.org/en/ab/abqb/doc/2006/2006abqb302/2006abqb302.html)
+The Court of Queen's Bench decision can be found at: <http://www.canlii.org/en/ab/abqb/doc/2006/2006abqb302/2006abqb302.html>
 
 **Alberta Court of Appeal Review:** This decision was appealed to the Alberta Court of Appeal which, in a December 2007 ruling, unanimously upheld the original decision made by the Human Rights Hearing Panel. Discrimination based on perception of a disability can be a violation of human rights legislation, but because there was no perception by the employer that Mr. Chiasson was drug-addicted, there was no basis to assert discrimination on the basis of a perceived disability. In addition, in looking at operating environment of the company, the Court acknowledged the importance of safety in dangerous work environments, and observed that "Extending human rights protections to situations resulting in placing the lives of others at risk flies in the face of logic."&nbsp; Finally, the Court noted its ruling may not be consistent with the Ontario Court of Appeal in Entrop and Imperial Oil Ltd, and declined to follow Entrop if that was the case.
 
@@ -103,7 +103,7 @@ The Court referred to evidence from the first hearing, which showed that the eff
 
 The Court did not rule on the broader issues around accommodation of an applicant with a dependency, and narrowed it's ruling to the specific facts of Mr. Chiasson's situation - that he was a recreational user and did not have a drug dependency. Therefore, if the job applicant tests positive and has an alcohol or drug dependency (a disability) there may still be a duty to accommodate, although direction on the employer's specific obligations to an applicant in this situation has not yet been provided in any of the cases.
 
-The full decision can be viewed at [http://www.canlii.org/en/ab/abca/doc/2007/2007abca426/2007abca426.html](http://www.canlii.org/en/ab/abca/doc/2007/2007abca426/2007abca426.html)
+The full decision can be viewed at <http://www.canlii.org/en/ab/abca/doc/2007/2007abca426/2007abca426.html>
 
 Supreme Court: The Alberta Human Rights and Citizenship Commission sought leave to appeal this decision to the Supreme Court of Canada. The Court dismissed the leave to appeal in the spring of 2008. Reasons for these decisions are never provided. As such the Court of Appeal ruling stands in this case.
 
@@ -111,13 +111,13 @@ Supreme Court: The Alberta Human Rights and Citizenship Commission sought leave 
 
 The testing did not meet the reasonable cause standard, and thus the blanket random test indicated all members of the crew were perceived to be substance abusers. Halter was discriminated against on the basis of a perceived disability, the testing was discriminatory, and their program did not have the range of components needed to meet requirements set in Entrop. The company did not meet the court tests: introducing a policy solely because others in the industry were doing this, and because a client required it was not sufficient. Further there should have been a written record he had been offered assistance, and he should have been accommodated in a non-sensitive position until he had a negative test; Ceda is a large company and did not accommodate to the point of undue hardship. The decision can be viewed at:
 
-Complete decision: [http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc8/2005ahrc8.html](http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc8/2005ahrc8.html)
+Complete decision: <http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc8/2005ahrc8.html>
 
 **Elk Valley Coal:** This case took over ten years to go through the courts. The complainant was involved in a serious workplace vehicle collision and terminated after testing positive for cocaine. He admitted he did not have an addition, but said he may have one after he was terminated. A complaint was made to the Alberta Human Rights Tribunal who dismissed it because he was terminated for a breach of the policy and not because he had a disability. The program provided for assistance for anyone who came forward for help, but not the same accommodation after a violation. The Court of Queen’s Bench found no link between the individual’s termination and a disability.
 
 The Court of Appeal upheld the termination finding no causal link between it and a disability – he was terminated for failure to comply with the policy. They noted that everyone was treated the same under the policy and anyone who felt they could not comply could get help. If employees could claim denial and avoid safety obligations this would be against the employers effort to create and maintain a safe workplace. Earlier this year, the Supreme Court of Canada concluded the Court’s finding was not unreasonable and that the complainant can still comply with a workplace policy without acknowledging an addiction.
 
-SCC Decision: [https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.html](https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.html)
+SCC Decision: <https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.html>
 
 ## 7. Arbitration Trends
 
@@ -125,11 +125,11 @@ SCC Decision: [https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.htm
 - These decisions are specific to the company policy being reviewed in each case, however, the general trend appears to be to accept alcohol and drug testing is acceptable in a risk or safety-sensitive working environment in a reasonable cause situation, and as part of a complete investigation into a serious accident or incident. It has also been accepted as a condition of assignment to a higher risk position, and on a case by case basis on return to duty after treatment for a problem, or as a condition of continued employment after a violation (as determined on a case by case basis). There has been no ruling on pre-employment testing as the arbitrators and unions have no jurisdiction.
 - Bantrel - Site Access Testing: Site access testing has been examined in an arbitration setting. The November 26, 2007 decision by the Alberta Court of Queens Bench in United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry and Bantrel Constructors Co. upheld an arbitration award accepting site access testing. In this case, Bantrel was required to test all existing workers at a Petro Canada construction site prior to the effective date of their site -specific alcohol and drug policy requirements. The judicial review focused on four subjects and found: although the Canadian Model for Providing a Safe Workplace was accepted as part of the collective agreement, Petro Canada was not limited in introducing requirements outside of the Model; the pre-access testing requirement was reasonable; there was no human rights violation; and the decision not to specify remedy was reasonable given the Panel was unable to force the Owner to allow anyone on their site.
 
-The Court of Queens Bench decision can be viewed at [http://www.canlii.org/en/ab/abqb/doc/2007/2007abqb721/2007abqb721.html](http://www.canlii.org/en/ab/abqb/doc/2007/2007abqb721/2007abqb721.html)
+The Court of Queens Bench decision can be viewed at <http://www.canlii.org/en/ab/abqb/doc/2007/2007abqb721/2007abqb721.html>
 
 In March 2009, the Alberta Court of Appeal disagreed. The 2001 "Canadian Model" was adopted in the construction trades collective agreements as the basis for workplace testing programs. The question was whether the 2001 "Model" adopted by the CA's contemplated pre-site access testing of existing employees. They concluded it did not; there was a mistaken view that pre-site access testing was included as "a condition of employment" in the guideline; if it was, it would have been specifically listed as pre-employment testing was listed. The Court differentiated between site access testing in general as opposed to testing of employees already on the site, and concluded this was not upheld in the context of the collective agreements and the wording of the 2001 "Model" that each had accepted. The Court's decision can be viewed at:
 
-[http://www.canlii.org/en/ab/abca/doc/2009/2009abca84/2009abca84.html](http://www.canlii.org/en/ab/abca/doc/2009/2009abca84/2009abca84.html)
+<http://www.canlii.org/en/ab/abca/doc/2009/2009abca84/2009abca84.html>
 
 **Imperial Oil - Random Drug Testing:** A recent arbitration decision examined random drug testing in a unionized setting and concluded the issues were distinct from those in a human rights setting. In Imperial Oil Ltd. (Nanticoke Refinery) and CEP (December 2006), the arbitrator confirmed a Canadian ‘model' has developed regarding when testing is acceptable in a unionized setting and concluded random drug testing, even when using a methodology indicative of impairment (which was oral fluid testing), was not acceptable in the context of the "fairness and dignity" provisions of that particular collective agreement. Random alcohol testing was not before the arbitration panel for consideration. However a subsequent ruling by the same arbitrator in Superior Propane Inc. and CAW (January 2007) struck down random alcohol testing in a unionized workplace for the same reasons. The arbitrator confirmed his earlier ruling that testing in all other circumstances noted above was found to be acceptable. Two additional rulings reviewing comprehensive policies also upheld the requirement to pass a test as a condition of qualification to a safety- or risk-sensitive position.
 
@@ -141,7 +141,7 @@ The Court did not address random alcohol testing, referring back to the earlier 
 
 Some law firms have issued statements suggesting this award would make it difficult to implement random drug testing policies in unionized workplaces in Ontario, except in limited situations (e.g. a significant drug culture at a specific workplace). Others have suggested this ruling is very specific to the provisions of this particular collective agreement. The ruling was not appealed to the Supreme Court.
 
-The Complete Ruling: [http://www.canlii.org/en/on/onca/doc/2009/2009onca420/2009onca420.html](http://www.canlii.org/en/on/onca/doc/2009/2009onca420/2009onca420.html)
+The Complete Ruling: <http://www.canlii.org/en/on/onca/doc/2009/2009onca420/2009onca420.html>
 
 **Pearson Airport - Random Testing:** In June, 2007 a comprehensive ruling was issued on the alcohol and drug policy at the Greater Toronto Airports Authority (GTAA - Toronto Pearson Airport) and the Public Service Alliance of Canada. The primary challenge was against the testing component of the policy. The establishment of safety-sensitive positions at the airport was upheld, as was testing in a post incident and reasonable cause situation for these positions. Testing was also upheld as a condition of return to work after treatment, provided the union is involved. It was also upheld as a condition of return to work after a violation when appropriate and negotiated between parties; just cause would be needed for termination for failure to meet the provisions of the agreement. Likewise discipline for refusal to be tested is justified subject to the just cause requirement.
 
@@ -157,7 +157,7 @@ The arbitrator drew extensively from the previous rulings, and concluded that th
 
 **Court of Queens Bench:&nbsp;** On September 17, 2010, the New Brunswick Court of Queen's Bench quashed this decision. The Court ruled that a threshold exists somewhere between a dangerous workplace such as the Irving mill and an office environment, for example, below which an employer must show a history of accidents to justify such a policy. The Court found it was not reasonable to limit that threshold to workplaces that are "ultra dangerous" stating it is an unreasonably high standard. The Court also found that the fact there is a risk that a catastrophic incident could occur at the plant would justify introducing a policy; there is in fact an advantage to be gained. The technology (breath testing) is minimally intrusive and limited to those holding safety-sensitive positions. "Prevention of one catastrophe in the lifetime of the plant would be enough tot make it a reasonable policy in my view."
 
-The Court's ruling can be viewed at: [http://www.canlii.org/en/nb/nbqb/doc/2010/2010nbqb294/2010nbqb294.html](http://www.canlii.org/en/nb/nbqb/doc/2010/2010nbqb294/2010nbqb294.html)
+The Court's ruling can be viewed at: <http://www.canlii.org/en/nb/nbqb/doc/2010/2010nbqb294/2010nbqb294.html>
 
 Court of Appeal: The Communications, Energy and Paperworkers Union appealed the Court ruling to the New Brunswick Court of Appeal. Their decision issued on July 7, 2011 upheld the lower Court ruling. They found the core question to be,
 
@@ -167,13 +167,13 @@ The Court reviewed the case law and disagreed that arbitrators have overwhelming
 
 As the case concerned random alcohol testing, there was no direction on random drug testing in a union environment. The union was granted leave to appeal to the Supreme Court of Canada on March 22, 2012.
 
-The Court's Ruling can be accessed at: [http://www.canlii.org/en/nb/nbca/doc/2011/2011nbca58/2011nbca58.html](http://www.canlii.org/en/nb/nbca/doc/2011/2011nbca58/2011nbca58.html)
+The Court's Ruling can be accessed at: <http://www.canlii.org/en/nb/nbca/doc/2011/2011nbca58/2011nbca58.html>
 
 **Supreme Court:** The Court heard from both parties and several interveners representing unions and industry. In a split decision, the majority found in the absence of a specific provision in the collective agreement, duly negotiated between the parties, an employer cannot unilaterally impose random alcohol testing solely because the positions held are safety-sensitive and/or the workplace is dangerous: an alcohol or drug problem must also be demonstrated to exist among the employees. It is expected this same argument would be present for the introduction of random testing.
 
 The Court did rule that testing may be used where there are reasonable grounds to believe that the employee was impaired while on duty, where the employee was directly involved in a workplace accident or significant incident, and where the employee returns to work after treatment for substance abuse.
 
-The Ruling is found at: [http://www.canlii.org/en/ca/scc/doc/2013/2013scc34/2013scc34.html](http://www.canlii.org/en/ca/scc/doc/2013/2013scc34/2013scc34.html)
+The Ruling is found at: <http://www.canlii.org/en/ca/scc/doc/2013/2013scc34/2013scc34.html>
 
 The Supreme Court's conclusion will play a role in two arbitration cases currently awaiting ruling.
 
@@ -189,7 +189,7 @@ The Supreme Court's conclusion will play a role in two arbitration cases current
 
 - Site Access Testing: Suncor introduced a new requirement for site access testing for contract workers prior to working at their Southern Ontario sites. There was an arbitration hearing involving the Mechanical Contractors Association Sarnia and United Association of Journeymen and Apprentices of the Plumbing & Pipefitting Industry in which the requirement for site access testing was not upheld. The arbitrator relied on the Supreme Court ruling in Irving saying it was insufficient for an employer to cite general concerns about safety as a justification for imposition of pre-access drug testing. They must show evidence of an actual, existing substance abuse problem at the specific worksite which creates a real potential for significant workplace health and safety events in order to have this pre condition for drug testing without cause. (August 20, 2013)
 
-  The decision is found at: [http://www.canlii.org/en/on/onla/doc/2013/2013canlii54951/2013canlii54951.html](http://www.canlii.org/en/on/onla/doc/2013/2013canlii54951/2013canlii54951.html)
+  The decision is found at: <http://www.canlii.org/en/on/onla/doc/2013/2013canlii54951/2013canlii54951.html>
 - An application was made for judicial review, and in a November 27, 2014 ruling, the application was dismissed as the arbitrator's ruling was found to be reasonable.
 
 The information in this article is not intended to be legal advice, but simply presents an overview of current issues in Canada.

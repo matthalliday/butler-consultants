@@ -98,4 +98,4 @@ Collectors and labs are aware of most, if not all, of the methods used to tamper
 
 ### Footnotes
 
-1. Additional information on testing programs can be found at: [http://www.drivercheck.ca](http://www.drivercheck.ca) and at [http://www.cannamm.com](http://www.cannamm.com)
+1. Additional information on testing programs can be found at: <http://www.drivercheck.ca> and at <http://www.cannamm.com>

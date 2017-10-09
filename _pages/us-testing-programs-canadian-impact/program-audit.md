@@ -77,4 +77,4 @@ One significant change for employers will be the requirement to sign a contract 
 
 Again, given the continued importance of having effective health and safety programs in place, and the need to ensure drivers are fit to perform their duties at all times, we should not become complacent about alcohol and drug policies in the industry. After nearly four years of experience, it is timely to review your current practices to ensure they are still meeting your objectives and that you continue to be in compliance with the DOT requirements.
 
-Canadian Addiction Survey found at The Canadian Centre on Substance Abuse website; highlights report and detailed survey released March 23, 2004. It is found at: [http://www.ccsa.ca/index.asp?ID=18&amp;menu=&amp;page=222&amp;full=yes%20](http://www.ccsa.ca/index.asp?ID=18&amp;menu=&amp;page=222&amp;full=yes%20)
+Canadian Addiction Survey found at The Canadian Centre on Substance Abuse website; highlights report and detailed survey released March 23, 2004. It is found at: <http://www.ccsa.ca/index.asp?ID=18&amp;menu=&amp;page=222&amp;full=yes%20>

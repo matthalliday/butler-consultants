@@ -21,10 +21,10 @@ section_order: 5
   - The Department of Transportation has made it clear that any state initiative to either allow for the use of medical marijuana, or that has resulted in legalization of marijuana have no bearing on the drug testing program; this remains a Schedule I drug whose use is illegal under federal law.  Therefore no matter what location the driver resides, or what state or country the driver is tested in, the MRO can not by law overturn a positive marijuana result.
 
     The notices can be found at:<br />
-    [https://www.transportation.gov/odapc/medical-marijuana-notice](https://www.transportation.gov/odapc/medical-marijuana-notice)<br />
-    [https://www.transportation.gov/odapc/dot-recreational-marijuana-notice](https://www.transportation.gov/odapc/dot-recreational-marijuana-notice)
+    <https://www.transportation.gov/odapc/medical-marijuana-notice><br />
+    <https://www.transportation.gov/odapc/dot-recreational-marijuana-notice>
 
-  -	Effective October 1, 2017 there are changes to the testing program which specifically extend the opiates to be tested by adding the requirement to test for oxycodone, oxymorphone, hydrocodone, and hydromorphone. There are a number of other technical changes. [https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf](https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf)
+  -	Effective October 1, 2017 there are changes to the testing program which specifically extend the opiates to be tested by adding the requirement to test for oxycodone, oxymorphone, hydrocodone, and hydromorphone. There are a number of other technical changes. <https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf>
   -	Although there is a proposal to allow for oral fluid testing for drugs, that is not yet a part of the regulations although it is proposed in future that in situations when the donor can not provide a sufficient urine sample at the collection site. And use of point of collection testing devices (POCT) is not allowed for drivers covered by the regulations.
 
 - The company that directs the driver is responsible for compliance, whether they use employee drivers, or drivers that are contracted, leased or otherwise utilized by that company. The company does not have to be a motor carrier - they simply have to direct drivers under their operating authority to carry a product or passengers into the U.S. Employers must ensure all drivers they use for any cross border work are under a program that meets the regulatory requirements.
@@ -75,4 +75,4 @@ Employers must use Evidential Breath Testing devices (EBTs) or a saliva screen t
 
 Employers must identify their Designated Employer Representative (DER) for administration of the program, establish a written alcohol and drug policy, provide safety-sensitive supervisors with at least two hours of training, maintain detailed records of testing, training and education, check three year past testing history of applicants with former employers or those to who they applied to but were not hired by, ensure drivers have maintained qualifications (e.g. follow-up program if required), and provide information to employees about the company program, the regulations, and alcohol and drug issues.
 
-All relevant material on the application of these regulations is found at: [http://www.dot.gov/ost/dapc/](http://www.dot.gov/ost/dapc/)
+All relevant material on the application of these regulations is found at: <http://www.dot.gov/ost/dapc/>
