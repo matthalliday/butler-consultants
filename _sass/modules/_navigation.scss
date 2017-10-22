@@ -1,5 +1,7 @@
 .navigation {
-  margin-left: calc-pc(140px);
+  @include breakpoint($wrapper-width) {
+    margin-left: calc-pc(140px);
+  }
 }
 
 .navigation__list {

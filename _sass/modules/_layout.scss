@@ -1,28 +1,46 @@
 .layout__main {
-  padding-right: spacing(5);
-  padding-left: spacing(5);
+  padding-right: spacing(3);
+  padding-left: spacing(3);
+
+  @include breakpoint($wrapper-width) {
+    padding-right: spacing(5);
+    padding-left: spacing(5);
+  }
 }
 
 .layout__header {
   margin-bottom: spacing(5);
   padding-top: spacing(3);
-  padding-right: spacing(5);
-  padding-left: spacing(5);
+  padding-right: spacing(3);
+  padding-left: spacing(3);
   border-top: 3px solid $primary;
+
+  @include breakpoint($wrapper-width) {
+    padding-right: spacing(5);
+    padding-left: spacing(5);
+  }
 }
 
 .layout__footer {
   margin-top: spacing(5);
-  padding-right: spacing(5);
+  padding-right: spacing(3);
   padding-bottom: spacing(3);
-  padding-left: spacing(5);
+  padding-left: spacing(3);
   font-size: calc-em(15px);
   border-bottom: 3px solid $primary;
   overflow: hidden;
 
+  @include breakpoint($wrapper-width) {
+    padding-right: spacing(5);
+    padding-left: spacing(5);
+  }
+
   ul {
-    float: left;
     margin-bottom: 0;
+
+    @include breakpoint($wrapper-width) {
+      float: left;
+    }
   }
 
   li {
@@ -34,7 +52,10 @@
   }
 
   .copyright {
-    float: right;
     margin-bottom: 0;
+
+    @include breakpoint($wrapper-width) {
+      float: right;
+    }
   }
 }
