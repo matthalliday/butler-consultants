@@ -1,0 +1,40 @@
+.layout__main {
+  padding-right: spacing(5);
+  padding-left: spacing(5);
+}
+
+.layout__header {
+  margin-bottom: spacing(5);
+  padding-top: spacing(3);
+  padding-right: spacing(5);
+  padding-left: spacing(5);
+  border-top: 3px solid $primary;
+}
+
+.layout__footer {
+  margin-top: spacing(5);
+  padding-right: spacing(5);
+  padding-bottom: spacing(3);
+  padding-left: spacing(5);
+  font-size: calc-em(15px);
+  border-bottom: 3px solid $primary;
+  overflow: hidden;
+
+  ul {
+    float: left;
+    margin-bottom: 0;
+  }
+
+  li {
+    display: inline-block;
+
+    + li {
+      margin-left: $spacing;
+    }
+  }
+
+  .copyright {
+    float: right;
+    margin-bottom: 0;
+  }
+}

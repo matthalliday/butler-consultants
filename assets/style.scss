@@ -2,71 +2,15 @@
 # Jekyll needs YAML front matter in order to process this file
 ---
 
-@import 'normalize';
-@import 'helpers';
-@import 'base';
-@import 'typography';
+@import 'setup/colors';
+@import 'setup/variables';
+@import 'setup/functions';
+@import 'setup/normalize';
+@import 'setup/helpers';
 
-.site-header {
-  margin-bottom: 40px;
-}
+@import 'base/core';
+@import 'base/typography';
 
-.site-footer {
-  margin-top: 40px;
-}
-
-.brand {
-  overflow: hidden;
-
-  img {
-    float: left;
-  }
-}
-
-.brand__content {
-  float: left;
-  margin-left: 40px;
-  width: 560px;
-}
-
-.brand__title {
-  margin-top: 0;
-  margin-bottom: 16px;
-  font-weight: bold;
-  font-family: 'Source Serif Pro', serif;
-  font-size: 2em;
-  line-height: 1.25;
-
-  small {
-    display: block;
-  }
-}
-
-.brand__address {
-  span {
-    display: block;
-  }
-}
-
-
-.navigation__list {
-  margin-top: 0;
-  list-style: none;
-
-  li {
-    margin-bottom: 0;
-  }
-}
-
-.navigation__list--level-1 {
-  strong {
-    font-family: 'Source Serif Pro';
-    font-size: 17px;
-    color: #2d2d2d;
-  }
-}
-
-.navigation__list--level-2 {
-  margin-bottom: 0.5em;
-  padding-left: 32px;
-}
+@import 'modules/layout';
+@import 'modules/brand';
+@import 'modules/navigation';

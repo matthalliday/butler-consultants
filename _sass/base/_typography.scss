@@ -1,0 +1,38 @@
+.copy {
+  p {
+    margin-bottom: spacing(2);
+  }
+
+  ul {
+    list-style: disc;
+  }
+
+  ul,
+  ol {
+    padding-left: spacing(5);
+  }
+
+  li {
+    margin-bottom: spacing(1);
+
+    ul,
+    ol {
+      margin-top: spacing(1);
+    }
+  }
+
+  table {
+    margin-bottom: spacing(3);
+    width: 100%;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-collapse: collapse;
+
+    td,
+    th {
+      padding: spacing(1);
+      border-right: 1px solid #000;
+      border-bottom: 1px solid #000;
+    }
+  }
+}

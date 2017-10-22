@@ -1,0 +1,69 @@
+// http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #fafafa;
+}
+
+body {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  max-width: $wrapper-width;
+  font-weight: normal;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  border-top: spacing(1) solid $primary;
+  border-bottom: spacing(1) solid $primary;
+  background-color: #fff;
+  color: #525252;
+
+  @include breakpoint($wrapper-width) {
+    margin: spacing(3) auto;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: spacing(3);
+  font-family: 'Source Serif Pro', serif;
+  line-height: 1.2;
+  color: #2d2d2d;
+}
+
+p,
+ul,
+ol {
+  margin-top: 0;
+}
+
+ul,
+ol {
+  padding-left: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: $secondary;
+}
+
+img {
+  max-width: 100%;
+}
+
+#content:focus {
+  outline: none;
+}

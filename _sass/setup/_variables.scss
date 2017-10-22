@@ -1,0 +1,4 @@
+$spacing: 8px !default;
+$wrapper-width: 720px !default;
+$wrapper-gutter: $spacing * 5 !default;
+$content-width: $wrapper-width - ($wrapper-gutter * 2) !default;

@@ -1,0 +1,17 @@
+@function calc-em($target-px, $context: 16px) {
+  @return ($target-px / $context) * 1em;
+}
+
+@function calc-pc($target-px, $context: $content-width) {
+  @return ($target-px / $context) * 100%;
+}
+
+@function spacing($multiplier, $base: $spacing) {
+  @return ($multiplier * $spacing);
+}
+
+@mixin breakpoint($breakpoint) {
+  @media only screen and (min-width: $breakpoint) {
+    @content;
+  }
+}

@@ -1,0 +1,26 @@
+.navigation {
+  margin-left: calc-pc(140px);
+}
+
+.navigation__list {
+  margin-top: 0;
+  list-style: none;
+}
+
+.navigation__list--level-2 {
+  padding-left: spacing(4);
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
+.navigation__section {
+  margin-bottom: spacing(1);
+}
+
+.navigation__section-heading {
+  font-family: 'Source Serif Pro';
+  font-size: calc-em(17px);
+  color: #2d2d2d;
+}

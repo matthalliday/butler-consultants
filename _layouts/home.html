@@ -7,8 +7,8 @@ layout: default
   <ul class="navigation__list navigation__list--level-1">
     {% for section in sections %}
       {% if section.items[0].section %}
-        <li>
-          <strong>{{ section.items[0].section }}</strong>
+        <li class="navigation__section">
+          <strong class="navigation__section-heading">{{ section.items[0].section }}</strong>
           <ul class="navigation__list navigation__list--level-2">
             {% for item in section.items %}
               <li>

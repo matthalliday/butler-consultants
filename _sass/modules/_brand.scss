@@ -1,0 +1,43 @@
+.brand {
+  overflow: hidden;
+}
+
+.brand__logo {
+  float: left;
+  display: block;
+  width: calc-pc(120px);
+  text-align: center;
+}
+
+.brand__content {
+  float: right;
+  width: calc-pc(500px);
+}
+
+.brand__title {
+  margin-top: 0;
+  margin-bottom: spacing(2);
+  font-weight: bold;
+  font-family: 'Source Serif Pro', serif;
+  font-size: calc-em(28px);
+  line-height: 1.25;
+
+  a {
+    text-decoration: none;
+    color: #2d2d2d;
+  }
+
+  small {
+    display: block;
+    font-weight: normal;
+  }
+}
+
+.brand__address,
+.brand__tagline {
+  margin-bottom: 0;
+
+  span {
+    display: block;
+  }
+}

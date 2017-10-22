@@ -1,24 +1,30 @@
-<header class="site-header" role="banner">
+<header class="layout__header" role="banner">
 
   {% if page.layout == 'home' %}
 
     <div class="brand">
-      <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+      <a class="brand__logo" href="{{ "/" | relative_url }}">
+        <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+      </a>
 
       <div class="brand__content">
         <h1 class="brand__title">
           <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
           <small>Management Consultants</small>
         </h1>
-        <p>Specializing in workplace alcohol and drug policy and programs</p>
-        <p>Barbara Butler, B.E.S., M.B.A., President</p>
+        <p class="brand__tagline">
+          <span>Specializing in workplace alcohol and drug policy and programs</span>
+          <span>Barbara Butler, B.E.S., M.B.A., President</span>
+        </p>
       </div>
     </div>
 
   {% else %}
 
     <div class="brand">
-      <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+      <a class="brand__logo" href="{{ "/" | relative_url }}">
+        <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
+      </a>
 
       <div class="brand__content">
         <div class="brand__title">
