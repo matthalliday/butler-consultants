@@ -3,13 +3,13 @@
   {% if page.layout == 'home' %}
 
     <div class="brand">
-      <a class="brand__logo" href="{{ "/" | relative_url }}">
+      <a class="brand__logo" href="{% link index.md %}">
         <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
       </a>
 
       <div class="brand__content">
         <h1 class="brand__title">
-          <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+          <a href="{% link index.md %}">{{ site.title | escape }}</a>
           <small>Management Consultants</small>
         </h1>
         <p class="brand__tagline">
@@ -22,13 +22,13 @@
   {% else %}
 
     <div class="brand">
-      <a class="brand__logo" href="{{ "/" | relative_url }}">
+      <a class="brand__logo" href="{% link index.md %}">
         <img src="{{ "/assets/images/logo.gif" | relative_url }}" alt="" />
       </a>
 
       <div class="brand__content">
         <div class="brand__title">
-          <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+          <a href="{% link index.md %}">{{ site.title | escape }}</a>
           <small>Management Consultants</small>
         </div>
         <p class="brand__address">
