@@ -2,7 +2,7 @@
   <ul>
     {% if page.layout != 'home' %}
       <li><a href="#top">Top of the page</a></li>
-      <li><a href="{{ "/" | relative_url }}">Table of Contents</a></li>
+      <li><a href="{% link index.md %}">Table of Contents</a></li>
       <li><a href="{% link _pages/canadian-testing-programs/background-on-alcohol-and-drug-testing.md %}">Articles</a></li>
     {% else %}
       <li><a href="http://butlerconsultants.com">Back to Butler Consulting Groups</a></li>
