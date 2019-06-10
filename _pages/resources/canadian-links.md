@@ -10,10 +10,15 @@ section_order: 6
 
 2. The Centre also provides information and research on marijuana use in a series of reports dealing with impacts on health and driving skills among other things. <http://www.ccdus.ca/Eng/topics/Marijuana/Marijuana-Research/Pages/default.aspx>
 
-3. Information and the results of the Canadian Tobacco, Alcohol and Drugs Survey (2015) are found at:
+3. Information and the results of the Canadian Tobacco, Alcohol and Drugs Survey (2017) are found at:
 
-   Summary: <https://www.canada.ca/en/health-canada/services/canadian-tobacco-alcohol-drugs-survey/2015-summary.html><br />
-   Tables: <https://www.canada.ca/en/health-canada/services/canadian-tobacco-alcohol-drugs-survey/2015-supplementary-tables.html>
+   Summary: <https://www.canada.ca/en/health-canada/services/canadian-tobacco-alcohol-drugs-survey/2017-summary.html><br />
+   Tables: <https://www.canada.ca/en/health-canada/services/canadian-tobacco-alcohol-drugs-survey/2017-summary/2017-detailed-tables.html><br />
+
+   Statistics Canada has been regularly posting quarterly surveys specific to cannabis which can be found on their web site.<br />
+
+   The 2018 Health Canada Canadian Cannabis Survey can be viewed at:
+   <https://www.canada.ca/en/services/health/publications/drugs-health-products/canadian-cannabis-survey-2018-summary.html>
 
 4. For information about on-line supervisor training programs, contact Corridor Interactive through their web page at: <http://corridorinteractive.com>
 

@@ -17,8 +17,9 @@ section_order: 4
 
 The full decision is available at:
 
-Oak Bay Marina Ltd. v. British Columbia (Human Rights Commission) 2002 BCCA 495<br />
-<http://www.canlii.org/en/bc/bcca/nav/date/2002_09.html>
+Oak Bay Marina Ltd (Painter’s Lodge) and B.C. Human Rights Tribunal and Robert Gordy, B.C. Court of Appeal, September 2002 accessible at:<br />
+<https://www.canlii.org/en/bc/bcca/doc/2002/2002bcca495/2002bcca495.html>
+
 
 ## 2. Human Rights Context: Supreme Court Decision
 
@@ -115,7 +116,7 @@ Complete decision: <http://www.canlii.org/en/ab/abhrc/doc/2005/2005ahrc8/2005ahr
 
 **Elk Valley Coal:** This case took over ten years to go through the courts. The complainant was involved in a serious workplace vehicle collision and terminated after testing positive for cocaine. He admitted he did not have an addition, but said he may have one after he was terminated. A complaint was made to the Alberta Human Rights Tribunal who dismissed it because he was terminated for a breach of the policy and not because he had a disability. The program provided for assistance for anyone who came forward for help, but not the same accommodation after a violation. The Court of Queen’s Bench found no link between the individual’s termination and a disability.
 
-The Court of Appeal upheld the termination finding no causal link between it and a disability – he was terminated for failure to comply with the policy. They noted that everyone was treated the same under the policy and anyone who felt they could not comply could get help. If employees could claim denial and avoid safety obligations this would be against the employers effort to create and maintain a safe workplace. Earlier this year, the Supreme Court of Canada concluded the Court’s finding was not unreasonable and that the complainant can still comply with a workplace policy without acknowledging an addiction.
+The Court of Appeal upheld the termination finding no causal link between it and a disability – he was terminated for failure to comply with the policy. They noted that everyone was treated the same under the policy and anyone who felt they could not comply could get help. If employees could claim denial and avoid safety obligations this would be against the employers effort to create and maintain a safe workplace. The Supreme Court of Canada concluded the Court’s finding was not unreasonable and that the complainant can still comply with a workplace policy without acknowledging an addiction.
 
 SCC Decision: <https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.html>
 
@@ -123,7 +124,6 @@ SCC Decision: <https://www.canlii.org/en/ca/scc/doc/2017/2017scc30/2017scc30.htm
 
 - In reviewing policies that include testing, the trend amongst arbitrators is to make an attempt to find a reasonable balance between public safety issues and employee rights when discussing medical examinations and drug testing. A key consideration is normally whether the employer's actions would be considered reasonable under the circumstances. The issues are also often discussed within the context of human rights guidelines and principles.
 - These decisions are specific to the company policy being reviewed in each case, however, the general trend appears to be to accept alcohol and drug testing is acceptable in a risk or safety-sensitive working environment in a reasonable cause situation, and as part of a complete investigation into a serious accident or incident. It has also been accepted as a condition of assignment to a higher risk position, and on a case by case basis on return to duty after treatment for a problem, or as a condition of continued employment after a violation (as determined on a case by case basis). There has been no ruling on pre-employment testing as the arbitrators and unions have no jurisdiction.
-- Bantrel - Site Access Testing: Site access testing has been examined in an arbitration setting. The November 26, 2007 decision by the Alberta Court of Queens Bench in United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry and Bantrel Constructors Co. upheld an arbitration award accepting site access testing. In this case, Bantrel was required to test all existing workers at a Petro Canada construction site prior to the effective date of their site -specific alcohol and drug policy requirements. The judicial review focused on four subjects and found: although the Canadian Model for Providing a Safe Workplace was accepted as part of the collective agreement, Petro Canada was not limited in introducing requirements outside of the Model; the pre-access testing requirement was reasonable; there was no human rights violation; and the decision not to specify remedy was reasonable given the Panel was unable to force the Owner to allow anyone on their site.
 
 The Court of Queens Bench decision can be viewed at <http://www.canlii.org/en/ab/abqb/doc/2007/2007abqb721/2007abqb721.html>
 
@@ -175,21 +175,52 @@ The Court did rule that testing may be used where there are reasonable grounds t
 
 The Ruling is found at: <http://www.canlii.org/en/ca/scc/doc/2013/2013scc34/2013scc34.html>
 
-The Supreme Court's conclusion will play a role in two arbitration cases currently awaiting ruling.
+The Supreme Court’s conclusion played a role in two subsequent arbitration cases.
 
-- In Teck Coal Limited and United Steelworkers (Elkview and Fording River Operations), an interim ruling allowed continuation of a program of random alcohol and drug testing pending the arbitrator's final decision on the merits of the testing. That decision has not been released (April 2015)
+- In Teck Coal Limited and United Steelworkers  (Elkview and Fording River Operations), an interim ruling allowed continuation of a program of random alcohol and drug testing pending the arbitrator’s final decision on the merits of the testing.  The arbitrator subsequently ruled against the introduction of random testing, referring back to the Supreme Court ruling and stating there was no enhanced safety risk at the mine, no evidence of a problem, and the safety gains would be uncertain or minimal.  Introducing random testing would significantly intrude on employee privacy interests and would be an unreasonable exercise of management rights under the collective agreement, and would be in violation of the agreement.
+
+   The ruling can be viewed at:<br />
+   <https://www.canlii.org/en/ab/abgaa/doc/2015/2015canlii98935/2015canlii98935.html>
+
 - Suncor Energy introduced random alcohol and drug testing for its N. Alberta operations and was challenged by UNIFOR. In a March 2014 decision, the arbitrator ruled that the random testing was unreasonable as Suncor didn't have sufficient evidence to prove there is a "significant alcohol or drug problem exhibited by the union's members, or a legitimate safety risk to warrant such a problem. It is currently going through judicial review and a decision has not been released. (April 2015)
-- Construction Industry: There have been rulings in the construction industry that have specifically examined the requirements for reasonable cause and post incident testing.
+
+   The Suncor arbitration decision and dissent can be viewed at:<br />
+   <http://www.coaa.ab.ca/safety/SuncorUniforArbitrationDecision.aspx>
+
+   The company appealed this ruling to the courts and it was overturned, finding the arbitrator had interpreted the Supreme Court’s direction on proof of a problem as too limiting (workforce/Unifor members vs. the broader workplace) and sent it back for another hearing.  The union appealed this to the Alberta Court of Appeal, which in late September 2017 upheld the middle court ruling to send the case for a further hearing before a different arbitration panel.  The issue was whether the evidence of a problem had to be established for the union members themselves, or in the workplace in general. In late 2018 an agreement was reached between Suncor and Unifor to move forward with the random testing program for safety-sensitive and specified positions in early 2019 rather than go back to arbitration and the courts.  This is applicable to all N. Alberta operations, and all contractors on those sites must add random alcohol and drug testing to their own programs.
+
+   The Court of Queens Bench ruling can be viewed at:<br />
+   <http://www.canlii.org/en/ab/abqb/doc/2016/2016abqb269/2016abqb269.html>
+
+   The Suncor Court of Appeal decision can be viewed at:<br />
+   <https://www.canlii.org/en/ab/abca/doc/2017/2017abca313/2017abca313.html>
+
+
+- Toronto Transit Commission: There has been a policy in place covering all employees since 2010. Under the policy, reasonable cause and post incident testing are required for all employees holding safety-sensitive, specified management or designated executive positions. Passing a test as a condition of qualification for one of these positions is also required. The union grieved the policy but the testing continued pending the ruling of the arbitrator. Through the implementation process, the Commission felt they had sufficient evidence of a problem to introduce a random testing requirement.
+
+   On April 3, 2017 the Ontario Superior Court of Justice refused an injunction request by the Amalgamated Transit Union to prevent the TTC from implementing the random testing component of their policy. The judge decided random tests will increase the likelihood that an employee in a safety-critical position who is prone to using alcohol or drugs too close in time to coming to work, will either be detected when the test result is known or deterred by the prospect of being randomly tested.  The program was implemented in May 2017.  The union has not appealed this ruling, and the ongoing arbitration case against the entire policy continues.
+
+   The Toronto Transit Commission court decision can be viewed at:<br />
+   <https://www.canlii.org/en/on/onsc/doc/2017/2017onsc2078/2017onsc2078.html>
+
+- Reasonable Cause and Post Incident Testing: There have been rulings that have specifically examined the requirements for reasonable cause and post incident testing.
+
 - In Suncor Energy and the Communications, Energy and Paperworkers Union (D. Elliott, Alberta, September 3, 2008), the arbitrator agreed that reasonable cause may be a factor in deciding to test in a post incident situation, but it is not required.&nbsp; The company policy required testing after an incident unless the investigator could "rule out" the involvement of alcohol or other drugs. The arbitrator pointed out that "there is no way anyone could, with certainty, absolutely rule out drugs and alcohol unless the supervisor had been in the employee's presence and watched him or her every moment for some period before and during their shift." As a result testing would have taken place in situations where it was not appropriate.
 
   Instead, the arbitrator ruled that it would be acceptable in the investigation of an accident, near miss or other potentially dangerous incident to test any employee directly involved in the situation when there are reasonable grounds to do so, or when the investigators decide there is no credible explanation for the incident. Both members of the panel concurred.
+
 - A similar ruling was issued on October 31, 2008 involving the Mechanical Contractors Association of Sarnia and Sarnia Construction Association and a number of the construction trade unions. (T. Jolliffe, Ontario). The arbitrator upheld reasonable cause and post incident testing in a risk-sensitive operating environment. The decision in a reasonable cause situation would be triggered based on actual observations which realistically presented some grounds to believe he person was working while under the influence of alcohol or other drugs. In a post incident situation (significant incident, accident or near miss) it would be acceptable where the condition of the employee is seen as a reasonable line of inquiry. There must be a connection between the employee and the incident, evidence their acts or omissions contributed to the incident, and consideration as to whether testing would assist in the investigation (in other words, other obvious causes like mechanical failure or environmental factors could be ruled out). Automatic termination for a positive test result would not necessarily be accepted, recognizing the employer's obligation to accommodate any individual with a dependency (disability).
 
   Although both cases were decided in the context of a construction industry grievance, the comments are of interest to a wide variety of employers engaged in safety/risk-sensitive operations in Canada.
 
-- Site Access Testing: Suncor introduced a new requirement for site access testing for contract workers prior to working at their Southern Ontario sites. There was an arbitration hearing involving the Mechanical Contractors Association Sarnia and United Association of Journeymen and Apprentices of the Plumbing & Pipefitting Industry in which the requirement for site access testing was not upheld. The arbitrator relied on the Supreme Court ruling in Irving saying it was insufficient for an employer to cite general concerns about safety as a justification for imposition of pre-access drug testing. They must show evidence of an actual, existing substance abuse problem at the specific worksite which creates a real potential for significant workplace health and safety events in order to have this pre condition for drug testing without cause. (August 20, 2013)
+- In the JD Irving Supreme Court decision (previously referenced), the focus was around the introduction of random alcohol testing for union members, and the conclusion was that there needed to be evidence of a general problem of substance abuse in the workplace in order to take that step. Throughout the Court ruling and the dissent, the circumstances for reasonable cause testing and post incident testing were referenced and treated as distinct routes of investigation. The Court referenced “a consistent arbitral jurisprudence whereby arbitrators have found that when a workplace is dangerous, an employer can test an individual employee if there is reasonable cause to believe that the employee was impaired while on duty, was involved in a workplace accident or incident, or was returning to work after treatment for substance abuse.
+
+- Subsequent rulings examining the requirement for post incident testing after a "near miss" have concluded this was also acceptable when the individual tested had failed to follow proper safety procedures and contributed to the situation. In none of these rulings was there also a requirement to determine if the individual was under the influence of alcohol or other drugs.
+
+- Site Access Testing: Suncor introduced a new requirement for site access testing for contract workers prior to working at their Southern Ontario sites. This has been a standard procedure for many safety-sensitive workplaces in Alberta for many years. There was an arbitration hearing involving the Mechanical Contractors Association Sarnia and United Association of Journeymen and Apprentices of the Plumbing & Pipefitting Industry in which the requirement for site access testing was not upheld. The arbitrator relied on the Supreme Court ruling in Irving saying it was insufficient for an employer to cite general concerns about safety as a justification for imposition of pre-access drug testing. They must show evidence of an actual, existing substance abuse problem at the specific worksite which creates a real potential for significant workplace health and safety events in order to have this pre condition for drug testing without cause. (August 20, 2013)
 
   The decision is found at: <http://www.canlii.org/en/on/onla/doc/2013/2013canlii54951/2013canlii54951.html>
-- An application was made for judicial review, and in a November 27, 2014 ruling, the application was dismissed as the arbitrator's ruling was found to be reasonable.
+
+- An application was made for judicial review, and in a November 27, 2014 ruling, the application was dismissed as the arbitrator's ruling was found to be reasonable. This suggests, unlike in Alberta, introducing a requirement for passing a site access test for unionized contract workers prior to working on a high risk site can not be introduced in Ontario without evidence of a problem at that worksite.
 
 The information in this article is not intended to be legal advice, but simply presents an overview of current issues in Canada.

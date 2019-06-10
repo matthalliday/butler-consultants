@@ -24,7 +24,14 @@ section_order: 5
     <https://www.transportation.gov/odapc/medical-marijuana-notice><br />
     <https://www.transportation.gov/odapc/dot-recreational-marijuana-notice>
 
-  -	Effective October 1, 2017 there are changes to the testing program which specifically extend the opiates to be tested by adding the requirement to test for oxycodone, oxymorphone, hydrocodone, and hydromorphone. There are a number of other technical changes. <https://www.gpo.gov/fdsys/pkg/FR-2017-01-23/pdf/2017-00979.pdf>
+  - Effective January 1, 2018 there were changes to the testing program which specifically extend the opiates to be tested by adding the requirement to test for oxycodone, oxymorphone, hydrocodone, and hydromorphone. There are a number of other technical changes which your Third Party Administrator will advise on.
+
+    The most current set of the Part 382 regulations for the motor carrier industry is found at:
+    <https://www.ecfr.gov/cgi-bin/text-idx?SID=25503a9c1ed335ab722ce6f294c8d438&mc=true&node=pt49.5.382&rgn=div5>
+
+    The most current employer information on the Part 40 regulations on implementation and testing is found at:
+    <https://www.transportation.gov/odapc/frpubs>
+
   -	Although there is a proposal to allow for oral fluid testing for drugs, that is not yet a part of the regulations although it is proposed in future that in situations when the donor can not provide a sufficient urine sample at the collection site. And use of point of collection testing devices (POCT) is not allowed for drivers covered by the regulations.
 
 - The company that directs the driver is responsible for compliance, whether they use employee drivers, or drivers that are contracted, leased or otherwise utilized by that company. The company does not have to be a motor carrier - they simply have to direct drivers under their operating authority to carry a product or passengers into the U.S. Employers must ensure all drivers they use for any cross border work are under a program that meets the regulatory requirements.
@@ -73,6 +80,6 @@ Employers must use Evidential Breath Testing devices (EBTs) or a saliva screen t
 
 ### 5. Other Obligations?
 
-Employers must identify their Designated Employer Representative (DER) for administration of the program, establish a written alcohol and drug policy, provide safety-sensitive supervisors with at least two hours of training, maintain detailed records of testing, training and education, check three year past testing history of applicants with former employers or those to who they applied to but were not hired by, ensure drivers have maintained qualifications (e.g. follow-up program if required), and provide information to employees about the company program, the regulations, and alcohol and drug issues.
+Employers must identify their Designated Employer Representative (DER) for administration of the program, establish a written alcohol and drug policy, provide safety-sensitive supervisors with at least two hours of training, maintain detailed records of testing, training and education, check three year past testing history of applicants with former employers or those to who they applied to but were not hired by, ensure drivers have maintained qualifications (e.g. follow-up program if required), and provide information to employees about the company program, the regulations, and alcohol and drug issues. Subpart G of the regulations provides further information on employer obligations re. addressing past violations.
 
 All relevant material on the application of these regulations is found at: <http://www.dot.gov/ost/dapc/>
